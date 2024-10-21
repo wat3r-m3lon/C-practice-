@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "use IEnumerable", "use IEnu
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ICollection", "ICollection\ICollection.csproj", "{92B36A6E-7DA4-4410-BB2D-8B189352EADF}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "List", "List\List.csproj", "{6CB7503C-9C73-4136-B1DD-D64D2199FD34}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{92B36A6E-7DA4-4410-BB2D-8B189352EADF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{92B36A6E-7DA4-4410-BB2D-8B189352EADF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{92B36A6E-7DA4-4410-BB2D-8B189352EADF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6CB7503C-9C73-4136-B1DD-D64D2199FD34}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6CB7503C-9C73-4136-B1DD-D64D2199FD34}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6CB7503C-9C73-4136-B1DD-D64D2199FD34}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6CB7503C-9C73-4136-B1DD-D64D2199FD34}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
