@@ -5,6 +5,8 @@ VisualStudioVersion = 17.11.35312.102
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Generics", "Generics\Generics.csproj", "{FA5B1AA1-E4A9-4CF2-AA52-CB309C8E70A7}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "constraints in generics", "constraints in generics\constraints in generics.csproj", "{CD77C4BD-28A5-4E05-BADA-9811AE4DA6F1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{FA5B1AA1-E4A9-4CF2-AA52-CB309C8E70A7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FA5B1AA1-E4A9-4CF2-AA52-CB309C8E70A7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FA5B1AA1-E4A9-4CF2-AA52-CB309C8E70A7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CD77C4BD-28A5-4E05-BADA-9811AE4DA6F1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CD77C4BD-28A5-4E05-BADA-9811AE4DA6F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CD77C4BD-28A5-4E05-BADA-9811AE4DA6F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CD77C4BD-28A5-4E05-BADA-9811AE4DA6F1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
